@@ -80,24 +80,10 @@ You can deploy the Dockerized app using these free-tier hosting providers:
 
 ## Contributing
 
-Contributions are welcome! Please:
+Contributions are welcome! 
 
 1. Fork the repository.
 2. Create a branch: `git checkout -b feature-desc`
 3. Commit your changes.
 4. Submit a pull request with a concise description.
 
-## License
-
-*(Add license information here, e.g., MIT License)*
-
----
-
-Let me know if you’d like to customize this further—for example:
-
-- A quick **Tech Stack** section.
-- **How to test** the API with sample requests.
-- **Screenshots or badges** (Docker build, GitHub stars, etc.).
-
-Happy to refine it per your needs!
-::contentReference[oaicite:0]{index=0}
